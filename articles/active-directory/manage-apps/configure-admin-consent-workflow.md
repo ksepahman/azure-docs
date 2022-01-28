@@ -52,6 +52,7 @@ Under **Admin consent requests**,  select **Yes** for **Users can request admin 
 
 > [!NOTE]
 > You can add or remove reviewers for this workflow by modifying the **Select admin consent requests reviewers** list. Note that a current limitation of this feature is that reviewers can retain the ability to review requests that were made while they were designated as a reviewer.
+> Reviewer type (users) cannot have both users with administrative and non-administartive rights assigned to it. If you wish you have a user with non-administative right to receive the notifications, It is required to utilise the reviewer type (Roles) or (groups) for the administative user who is required to review the request.
 
 ## Email notifications
 
